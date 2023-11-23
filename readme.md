@@ -1,5 +1,5 @@
 <!-- TITULO -->
-# Devos
+# Devops
 <img src="imagenes/mrrobot.png" width="500" height="300">
 <!-- subtitulo -->
 
